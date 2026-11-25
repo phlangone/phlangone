@@ -1,43 +1,59 @@
-# Paulo H. Langone Miranda
+<h1 align="center">Paulo H. Langone Miranda</h1>
 
-**Embedded Systems | Industrial IoT | Engineering**
+<p align="center">
+  <strong>Embedded Systems &nbsp;·&nbsp; Industrial IoT &nbsp;·&nbsp; Engineering</strong>
+</p>
 
-I'm a technical instructor at SENAI-SP and a Computer Engineering student, with a background in industrial electronics and embedded systems.
+## About me
 
-My work focuses on developing systems that connect hardware, software and industrial applications, combining practical engineering, technical education and applied research.
+I'm a technical instructor at SENAI-SP and a Computer Engineering student, with a background in Industrial Electronics and postgraduate studies in Embedded Systems.
 
-## Technical Interests
-
-- Embedded systems and firmware development
-- Industrial IoT and communication protocols
-- FPGA and digital systems design
-- Robotics and industrial automation
-- Automotive electronics
-- Applied research
+My work bridges hardware and software, combining firmware development, industrial connectivity, technical education and applied research.
 
 ## Technology Stack
 
-| Area | Technologies |
-| --- | --- |
-| Languages | C, C++, Python, Verilog |
-| Embedded | STM32, ESP32, AVR, FreeRTOS, ESP-IDF |
-| Hardware | FPGA, Raspberry Pi, Arduino |
-| Communication | CAN, Modbus, MQTT, LoRa, TCP/IP |
-| Software | Linux, Git, OpenCV, TensorFlow |
+**Programming & digital design**
 
-## Selected Projects
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-555B9C?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-167B9A?style=flat-square)
 
-| Project | Description |
-| --- | --- |
-| [DIP Inspection](https://github.com/phlangone/dip-inspection) | Edge AI for visual inspection and robotic sorting of integrated circuits. |
-| [CNC Monitor](https://github.com/phlangone/cnc-monitor) | Industrial IoT firmware for CNC monitoring and energy telemetry. |
-| [Somgoritmo](https://github.com/phlangone/esp-somgoritmo) | Wearable assistive device for sound hazard detection using machine learning. |
-| [ESP32 CAN Analyzer](https://github.com/phlangone/esp-can-scanner) | Embedded CAN bus analyzer with a browser-based interface. |
-| [SAP-1 Processor](https://github.com/phlangone/fpga-sap1-de10lite) | Implementation of an 8-bit processor architecture in Verilog on FPGA. |
-| [Hand Gesture Robot Control](https://github.com/phlangone/hand-gesture-robot-control) | Real-time gesture recognition for collaborative robot control. |
+**Embedded systems**
 
-## Education & Research
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-555555?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-287D38?style=flat-square)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-B62629?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-Computer Engineering · Embedded Systems · Industrial Electronics
+**Communication & industrial connectivity**
 
-Interested in applied research, embedded computing, industrial connectivity and the integration of hardware and software systems.
+![CAN](https://img.shields.io/badge/CAN_Bus-3C566E?style=flat-square)
+![Modbus](https://img.shields.io/badge/Modbus-2168A0?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-0067A0?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-555555?style=flat-square)
+
+**Software & tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+## Research & Technical Interests
+
+- Embedded computing, firmware architecture and real-time systems
+- Industrial IoT, wireless networks and communication protocols
+- FPGA and digital systems design
+- Automotive electronics, robotics and industrial automation
+
+<p align="center">
+  <a href="https://github.com/phlangone?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories">
+  </a>
+</p>
